@@ -1,0 +1,43 @@
+/*
+Theme Name: YESDEV Divi Child
+Theme URI: https://www.elegantthemes.com/gallery/divi/
+Description: Child theme for the Divi theme
+Author: YESDEV
+Author URI: https://yes.dev
+Template: Divi
+Version: 1.0.0
+Text Domain: yesdev-divi-child
+*/
+
+/* Add your custom styles below this line */
+
+/* Typography Styles */
+/* H2 Styles */
+h2 {
+    font-family: DMSerifText;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    color: #000;
+}
+
+/* H3 Styles */
+h3 {
+    font-family: DMSerifText;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+    color: #000;
+}
+
+/* Body Text Styles */
+body {
+    font-family: "Plus Jakarta Sans", Arial, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 175%;
+    color: #000;
+}
