@@ -13,12 +13,12 @@ Text Domain: yesdev-divi-child
 
 /* 2026 campaign hero: newly cast model with the L'Adept product line. */
 html body div.et_pb_section.et_pb_section_0 {
-    background-image: url("../../uploads/2025/03/hero-model-products-2026.webp") !important;
+    background-image: url("../../uploads/2025/03/hero-model-products-2026.webp?v=20260921b") !important;
 }
 
 @media only screen and (max-width: 767px) {
     html body div.et_pb_section.et_pb_section_0 {
-        background-image: url("../../uploads/2025/03/hero-model-products-mobile-2026.webp") !important;
+        background-image: url("../../uploads/2025/03/hero-model-products-mobile-2026.webp?v=20260921b") !important;
     }
 
     html body .et_pb_row_0 {
