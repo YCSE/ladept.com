@@ -19,6 +19,10 @@ html body div.et_pb_section.et_pb_section_0 {
 @media only screen and (max-width: 767px) {
     html body div.et_pb_section.et_pb_section_0 {
         background-image: url("../../uploads/2025/03/hero-model-products-mobile-2026.webp?v=20260921c") !important;
+        background-size: 100% auto !important;
+        background-position: center bottom !important;
+        background-repeat: no-repeat !important;
+        background-color: #e8e8e8 !important;
     }
 
     html body .et_pb_row_0 {
